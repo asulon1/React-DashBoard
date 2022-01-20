@@ -42,4 +42,4 @@ yarn start
 
 ##
 
-Jérôme GABILLOUX | Doudou DIOP | Adrien SULON | 
+GABILLOUX Jérôme | DIOP Doudou | SULON Adrien | 
