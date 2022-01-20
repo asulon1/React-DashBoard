@@ -6,19 +6,19 @@ Users can disable widgets and choose their place.
 
 Widgets : 
 
-[x] Weather
+- Weather
 
-[x] Maps
+- Maps
 
-[x] Pokemon
+- Pokemon
 
-[x] Jokes
+- Jokes
 
-[x] Bitcoins
+- Bitcoins
 
-[x] ChatBox
+- ChatBox
 
-[x] Movies
+- Movies
 
 The app is built with React and is written in JavaScript
 
