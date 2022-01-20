@@ -42,4 +42,4 @@ yarn start
 
 ##
 
-@asulon1
+Jérôme GABILLOUX | Doudou DIOP | Adrien SULON | 
