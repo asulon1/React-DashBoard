@@ -42,4 +42,6 @@ yarn start
 
 ##
 
-GABILLOUX Jérôme | DIOP Doudou | SULON Adrien | 
+- [GABILLOUX Jérôme](https://github.com/jgabilloux)
+- [DIOP Doudou](https://github.com/Douzdiop)
+- [SULON Adrien](https://github.com/asulon1)
