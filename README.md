@@ -5,12 +5,19 @@ Dashboard is an EPITECH school project, the goal is to create a web app based on
 Users can disable widgets and choose their place. 
 
 Widgets : 
+
 [x] Weather
+
 [x] Maps
+
 [x] Pokemon
+
 [x] Jokes
+
 [x] Bitcoins
+
 [x] ChatBox
+
 [x] Movies
 
 The app is built with React and is written in JavaScript
